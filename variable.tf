@@ -1,5 +1,5 @@
 variable "project" {  
-  default = "new-project-282519"
+  default = "new-project6245" 
 }
 variable "vpc_gcp" {  
   default = "myvpc-gcp"
